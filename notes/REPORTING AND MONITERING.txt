@@ -1,0 +1,17 @@
+yes i do create performance test report we have excel spreard sheet report template we do report the test summary detail like 
+1 test timings
+2 Number of users
+3 test envirmonent
+4 Pass Transcation
+5 Fail transcation
+6 error Rate
+with detail observation and recomendation
+we will have another sheet called as details response time where we have to do mention 
+MIN
+AVG MAX AND 
+90 TH PERCENTAILE with pass and fail count
+In Client analsis we do report 
+Running vuser
+hits per second
+throught put
+transcation response time

@@ -1,0 +1,5 @@
+Montering tool info
+whiling the senario i use moniter the both client side and server side
+client side i use to moniter the summary wise and transcation wise response time, trought put,coupons call micro services,inventry call micro servicess like load vm and trascation response time if any changes will happen we need to check specific component this are things i use monitor the client side
+server side 
+it comes to server side cpu and memory this are things i user to monitor while running the senario

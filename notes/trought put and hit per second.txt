@@ -1,0 +1,2 @@
+Hits per second is the total load set by the concurrent virtual users on the server, no matter if they are executed successfully or not on the server side.
+Throughput is a measure of how many units of information a system can process in a given amount of time. 

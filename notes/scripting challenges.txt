@@ -1,0 +1,12 @@
+in one of my script, i have transaction where i need to perform advance search in grid screen, when i perform advance search request generated with item date which has search parameter along with customer data available on grid screen,it is like
+web_sub_data
+item date
+"name=search","value=customer name",
+"name=customer","value=1",
+"name=customer",valuse=2",
+"name=customer",valuse=3",
+"name=customer",valuse=4",
+LAST);
+
+customer date list is changing every time based on grid size have conveterd the request to web_custom_request using URL mode recording option and then i have written correlation with ORD=all and after the request i have written for loop, before that i have captured ord count by using atoi function, in for loop i have concatinated string in form like
+customer=1&customer=2& by using strcat and lr_paramarr_idx function. after the loop i hanv conveted string to lr value using lr_save_string and replace value

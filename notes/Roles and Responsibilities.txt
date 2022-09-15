@@ -1,0 +1,9 @@
+Roles and Responsibilities
+1 First i have to understand apllication architeture with key components of the performance testing
+2 i have to involue in nfr gathering to identify business work flows senarious
+3 i have to go for creating some test paln creation
+4 i will move to scripting part to do corelation and parameter and page verification
+5 After scripting i have to  use smoketest
+6 then i hanve to go for load test based on senarios gather during requirement phase
+7 During load test i need to monitor client side and server side matrix with monitoring tool
+8 next i will analyze the results and create report with observation
